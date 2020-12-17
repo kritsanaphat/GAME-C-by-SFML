@@ -1,0 +1,5 @@
+kluay 4000
+kong 3000
+few 2000
+ton 200
+man 100

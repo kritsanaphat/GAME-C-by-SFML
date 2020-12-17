@@ -1,0 +1,21 @@
+a 10
+b 20
+c 30
+d 50
+g 20
+
+krit 60
+test 980
+testwin 1670
+testwin2 210
+testwin 3310
+krit 110
+a 250
+ww 1540
+d 1160
+dd 1550
+eq 2290
+a 1020
+eqwq 1780
+h 1710
+w 3240
